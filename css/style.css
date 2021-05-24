@@ -1,0 +1,40 @@
+body {
+    
+
+}
+#left {
+    float: left;
+}
+#right {
+    float: right;
+    border: 3px solid rgb(1,1,1);
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+}
+.collection {
+    width: 200px;
+}
+.brand-logo {
+    margin-left: 15px;
+}
+.breadcrumb {
+    margin-left: 15px;
+}
+#resto {
+    display: flex;
+    /*
+    border: 3px solid rgb(1,1,1);
+    box-sizing: border-box;
+    */
+}
+.search-wrapper {
+    display: flex;
+    margin-left: auto; margin-right: auto;
+    align-items: center;
+}
+#search {
+    max-width: 600px;
+    
+}
+
